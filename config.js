@@ -40,7 +40,7 @@ const CONFIG = {
     time: "11:00",
     venue: "벨라루체 웨딩홀(서울)",
     hall: "7층 플로체홀",
-    address: "서울특별시 동대문구 망우로 61\n회기역 2번출구 바로 앞",
+    address: "서울특별시 동대문구 망우로 61, 회기역 2번출구 바로 앞",
     tel: "02-2242-6312",
     mapLinks: {
       kakao: "https://kko.to/Gtmksybb0s",
